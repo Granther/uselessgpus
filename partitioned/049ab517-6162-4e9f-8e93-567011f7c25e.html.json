@@ -1,0 +1,1650 @@
+[
+  {
+    "element_id": "ba773c9d9fa27050379795dcaa6ac520",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "All Things Dogs"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com"
+      ]
+    },
+    "text": "All Things Dogs",
+    "type": "Title"
+  },
+  {
+    "element_id": "da84ff4905c1c2e11ff9d18fcb78d0e4",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Golden Retriever",
+    "type": "Title"
+  },
+  {
+    "element_id": "68eb73505e9bdec56df29362249eb8c0",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "John Woods"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/author/john/"
+      ]
+    },
+    "text": "May 15, 2024 John Woods",
+    "type": "Title"
+  },
+  {
+    "element_id": "e4f4049b5a2e26cb59c693394c252f45",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "The golden retriever is a medium-sized sporting dog that is known for its friendly personality and signature golden color.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a8debd06a70b9e2d4cbf422a80d6dc19",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "The breed grows up to 32 inches tall and weighs between 65 and 75 pounds. This tolerant dog has an average lifespan of 10–13 years.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d9133c0696213bb354a573aea7db5e80",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Friendly, energetic, and relatively easy to train, golden retrievers make suitable service dogs and family pets. These dogs thrive best with owners who exercise them regularly.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6f6468f6f44f8ae99b07054e26412516",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "As the breed is prone to separation anxiety, these dogs are unsuitable for families who spend a lot of time away from home.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "54e07070edbdcaf2a39535fef5581b4e",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "TABLE OF CONTENTS",
+    "type": "Title"
+  },
+  {
+    "element_id": "e86d07cc2bbfc0218d32788a526c182d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Golden Retriever Quick Summary"
+      ],
+      "link_urls": [
+        "#h21"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Golden Retriever Quick Summary",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "0d9f9fc349d9f84e6e35071fcc0516c6",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Golden Retriever Appearance"
+      ],
+      "link_urls": [
+        "#h22"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Golden Retriever Appearance",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "4605a7f48eacb6523fb574139ed152a1",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Golden Retriever Origins"
+      ],
+      "link_urls": [
+        "#h23"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Golden Retriever Origins",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "2a512b154915220aa2b6c59f797f56ac",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Golden Retriever Personality and Temperament"
+      ],
+      "link_urls": [
+        "#h24"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Golden Retriever Personality and Temperament",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "cc88bab19b9b89027e73d41938f2a8c4",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Taking Care of a Golden Retriever Dog"
+      ],
+      "link_urls": [
+        "#h25"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Taking Care of a Golden Retriever Dog",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "691f6156319f7410c2c5dfcad69cbe0d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "How to Train a Golden Retriever"
+      ],
+      "link_urls": [
+        "#h26"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "How to Train a Golden Retriever",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "d44302559982944970e9a7daef79acda",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Golden Retriever Price"
+      ],
+      "link_urls": [
+        "#h27"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Golden Retriever Price",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "3008eab734c55879bd7758595f9ac9bc",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Should You Get a Golden Retriever?"
+      ],
+      "link_urls": [
+        "#h28"
+      ],
+      "parent_id": "54e07070edbdcaf2a39535fef5581b4e"
+    },
+    "text": "Should You Get a Golden Retriever?",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "ba3d89ab4339e24223b90ea6374aa5fc",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Golden Retriever Quick Summary",
+    "type": "Title"
+  },
+  {
+    "element_id": "ab85d6ab952f0e33d154905e4c76473a",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "ba3d89ab4339e24223b90ea6374aa5fc",
+      "text_as_html": "<table><tr><td>Common Names:</td><td>Golden retriever</td></tr><tr><td>Breed group</td><td>Sporting group – gundog</td></tr><tr><td>Size</td><td>Medium</td></tr><tr><td>Height</td><td>28-32 inches overall (20-24 at the withers)</td></tr><tr><td>Weight</td><td>60-75 pounds</td></tr><tr><td>Colors</td><td>Golden</td></tr><tr><td>Coat</td><td>Long</td></tr><tr><td>Life Expectancy</td><td>10-13 years</td></tr><tr><td>Temperament</td><td>Gentle, trusting, friendly, affectionate</td></tr><tr><td>Shedding</td><td>Moderate</td></tr><tr><td>Barking Tendency</td><td>Infrequent</td></tr><tr><td>Cost</td><td>$1,000–$3,500</td></tr></table>"
+    },
+    "text": "Common Names: Golden retriever Breed group Sporting group – gundog Size Medium Height 28-32 inches overall (20-24 at the withers) Weight 60-75 pounds Colors Golden Coat Long Life Expectancy 10-13 years Temperament Gentle, trusting, friendly, affectionate Shedding Moderate Barking Tendency Infrequent Cost $1,000–$3,500",
+    "type": "Table"
+  },
+  {
+    "element_id": "a9d4e8b7dfc863dfc7dff4752ef42444",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Golden Retriever Appearance",
+    "type": "Title"
+  },
+  {
+    "element_id": "e1d68df91be52c697908b6aef5d5c835",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a9d4e8b7dfc863dfc7dff4752ef42444"
+    },
+    "text": "Golden retrievers are medium-sized and famous for their long golden coats. This breed has a powerful, muscular body, a long muzzle, and floppy ears.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "daf0fbb7424f3704022c68c00198644f",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a9d4e8b7dfc863dfc7dff4752ef42444"
+    },
+    "text": "Height and Weight",
+    "type": "Title"
+  },
+  {
+    "element_id": "7f27e01d52b944d62ede18f251cc7836",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "daf0fbb7424f3704022c68c00198644f"
+    },
+    "text": "Golden retrievers can grow up to 32 inches tall, with a wither height of up to 24 inches. This breed tends to weigh between 65 and 75 pounds.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "48a5c6dec7074c1036b5621feb347079",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "daf0fbb7424f3704022c68c00198644f"
+    },
+    "text": "As puppies, healthy golden retrievers double their birth weight in the first week. Female puppies grow quicker than males, averaging 5 pounds at seven weeks. Males grow to 3 pounds at seven weeks.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a52690a4026ab9ca911ac81ec2df5d23",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "daf0fbb7424f3704022c68c00198644f"
+    },
+    "text": "This breed should reach its full adult height at one year of age. A Golden retriever’s weight changes depending on age, diet, exercise, and genetics.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6381d42276a8939b517c42599ca0bdd6",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a9d4e8b7dfc863dfc7dff4752ef42444"
+    },
+    "text": "Coat",
+    "type": "Title"
+  },
+  {
+    "element_id": "600b3fe8ae239f7d0a1eb7f80bad8892",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Red Golden Retriever",
+        "English Cream Golden Retriever",
+        "Black Golden Retriever"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/red-golden-retriever/",
+        "https://www.allthingsdogs.com/english-cream-golden-retriever/",
+        "https://www.allthingsdogs.com/black-golden-retriever/"
+      ],
+      "parent_id": "6381d42276a8939b517c42599ca0bdd6"
+    },
+    "text": "Golden Retrievers display a beautiful spectrum of gold, including variations like the deep-hued Red Golden Retriever, the pale English Cream Golden Retriever, and even the rare, darker-toned Black Golden Retriever. Their fur is water-resistant — perfect for this water-loving breed. These dogs feature a double coat, comprising a thick, light-colored undercoat and a darker outer coat that can range from light cream to a rich copper tone.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "0ce7e8160a1da115bf029a28828eeb2e",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Golden Retriever Origins",
+    "type": "Title"
+  },
+  {
+    "element_id": "c17f6d267a8036987adbd41d5c86a2ef",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0ce7e8160a1da115bf029a28828eeb2e"
+    },
+    "text": "Sir Dudley Marjoribanks created the golden retriever in Scotland in the late 1800s. He perfected this dog by cross-breeding flat-coated retrievers with tweed water Spaniels and some other breeds.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "831a59504193081cd0d6bc49feb12632",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "The Kennel Club"
+      ],
+      "link_urls": [
+        "https://www.thekennelclub.org.uk/"
+      ],
+      "parent_id": "0ce7e8160a1da115bf029a28828eeb2e"
+    },
+    "text": "The Kennel Club officially recognized the golden retriever breed in 1913, and retrievers spread around the world between the First and Second World Wars.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "fa49fc36808268af148ab825fc1d9dc9",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Golden Retriever Personality and Temperament",
+    "type": "Title"
+  },
+  {
+    "element_id": "b1db8f9c2626828c9ee42c6bde2e2def",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "fa49fc36808268af148ab825fc1d9dc9"
+    },
+    "text": "Golden retrievers are extremely friendly toward humans and get along well with other dogs. Its intelligence and appetite for treats make the breed easy and eager to train.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "edcae054d8c27a334659da137f95252d",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "fa49fc36808268af148ab825fc1d9dc9"
+    },
+    "text": "This breed’s tolerant nature makes it well-suited for families with children. These dogs are known for being affectionate and building strong bonds with their owners.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "3b458c30904c7c01c86c639f6156c6d7",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "fa49fc36808268af148ab825fc1d9dc9"
+    },
+    "text": "Despite the golden retrievers’ size, they aren’t suitable for use as guard dogs because of this breed’s friendly nature. Avoid leaving a golden retriever alone for too long to prevent separation anxiety and destructive habits.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "0eb8afb15370b0cfb28f38a4747a57ad",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Taking Care of a Golden Retriever Dog",
+    "type": "Title"
+  },
+  {
+    "element_id": "2302534c7bcaa94734f367f00d9a8556",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0eb8afb15370b0cfb28f38a4747a57ad"
+    },
+    "text": "Taking care of a golden retriever is moderately difficult. Despite the dog’s gentle and loving nature, the retriever requires high levels of exercise and attention. The breed also sheds moderately throughout the year which increases grooming needs.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "1ac86526d16c9a2d76dffb285a2c434c",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0eb8afb15370b0cfb28f38a4747a57ad"
+    },
+    "text": "Food Needs",
+    "type": "Title"
+  },
+  {
+    "element_id": "c4bbb454c35d7e70ee552273eda34475",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "1ac86526d16c9a2d76dffb285a2c434c"
+    },
+    "text": "For the dog’s maximum health, feed golden retrievers two high-quality meals per day. Avoid overly processed foods, and choose high protein meals containing meat such as lamb, chicken, or turkey. Protein should make up at least 22% of the dog’s caloric intake per day.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "72319aec602fe2b7f5efa4128b74ab2d",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0eb8afb15370b0cfb28f38a4747a57ad"
+    },
+    "text": "Grooming Needs",
+    "type": "Title"
+  },
+  {
+    "element_id": "87c695c50590e5305ea7623da952b9c2",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "72319aec602fe2b7f5efa4128b74ab2d"
+    },
+    "text": "Golden retrievers need to be professionally groomed every two months. Brush the dog’s coat at least once a week, or daily during heavy shedding, to keep the coat and skin healthy.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "94744634e69fe21fc9a193c29fafc40a",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "72319aec602fe2b7f5efa4128b74ab2d"
+    },
+    "text": "This breed sheds moderately year-round and shedding increases in the spring and fall.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "37c8fb5140cde821bef975a5cd20c31f",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0eb8afb15370b0cfb28f38a4747a57ad"
+    },
+    "text": "Exercise Needs",
+    "type": "Title"
+  },
+  {
+    "element_id": "9d33d6bb6ded6204f4d2ec2e579103bf",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "37c8fb5140cde821bef975a5cd20c31f"
+    },
+    "text": "Golden retrievers need at least 90 minutes of exercise per day. This exercise can consist of walks, outdoor play, or runs. Exercise sessions can be divided throughout the day — for example, two or three walks.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "799d987064ccdb44cc9c249d1c53b6d7",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "37c8fb5140cde821bef975a5cd20c31f"
+    },
+    "text": "Retrievers are also more suited to a home with a backyard, so the dogs can easily access the outdoors for exercise and play. This breed’s exercise needs make the dog unsuitable for owners who don’t have free time or the ability to walk their pet regularly.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "57d139f9310f7ea9cd9c116c2b7fa734",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0eb8afb15370b0cfb28f38a4747a57ad"
+    },
+    "text": "Mental Needs",
+    "type": "Title"
+  },
+  {
+    "element_id": "3de68a0b0876de6676ba7b37ae89df6c",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "57d139f9310f7ea9cd9c116c2b7fa734"
+    },
+    "text": "Golden retrievers are energetic and intelligent dogs, which means this breed requires at least an hour of mental stimulation per day. This stimulation can come in the form of playing with toys, learning tricks, or problem-solving with puzzle toys.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "480c41bcc79addf280997ccfd014dfc4",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0eb8afb15370b0cfb28f38a4747a57ad"
+    },
+    "text": "Common Health Concerns",
+    "type": "Title"
+  },
+  {
+    "element_id": "7bc3adfbc34744d798527573695b1729",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "480c41bcc79addf280997ccfd014dfc4"
+    },
+    "text": "Golden retrievers are especially prone to the following health conditions:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "13cc3bf42ca73e2e321b9f1e8b5cab19",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Hip and elbow dysplasia"
+      ],
+      "link_urls": [
+        "https://www.akc.org/expert-advice/health/hip-dysplasia-in-dogs/"
+      ],
+      "parent_id": "480c41bcc79addf280997ccfd014dfc4"
+    },
+    "text": "Hip and elbow dysplasia: joint deformities that can cause pain in an affected golden retriever as the dog grows older. Dysplasia is a genetic condition, so ask the dog’s breeder whether the parents suffered from this condition. These conditions can be managed with medication or physiotherapy, though the dog may require surgery for severe cases.",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "c1ab3df97d6248c70418083872a0d576",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Ichthyosis:"
+      ],
+      "link_urls": [
+        "https://www.firstskinfoundation.org/ichthyosis-and-dogs"
+      ],
+      "parent_id": "480c41bcc79addf280997ccfd014dfc4"
+    },
+    "text": "Ichthyosis: a canine skin condition resulting in excessive dandruff flakes and scales. There is no cure for ichthyosis, but owners can manage the condition with appropriate skincare products and frequent grooming.",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "e64d16e5bc1b7955c2487f7ed2a79928",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Retinal dysplasia:"
+      ],
+      "link_urls": [
+        "https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/retinal-dysplasia"
+      ],
+      "parent_id": "480c41bcc79addf280997ccfd014dfc4"
+    },
+    "text": "Retinal dysplasia: an eye condition that reduces a dog’s vision. This condition is typically only spotted when the affected dog shows trouble navigating. Retinal dysplasia can be caused by genetics, infections, or toxin exposure.",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "b5769eed1ba53da2ab8a577fd0fa891b",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Cancer:"
+      ],
+      "link_urls": [
+        "https://www.avma.org/resources/pet-owners/petcare/cancer-pets"
+      ],
+      "parent_id": "480c41bcc79addf280997ccfd014dfc4"
+    },
+    "text": "Cancer: diseases that can be genetic or lifestyle-related and affect golden retrievers. The breed specifically is prone to cancers of the blood vessels, immune system, and lymphatic tissue. Symptoms of a cancerous disease include lumps and abnormal changes in a dog’s behavior or mood. If you suspect your dog has cancer, contact a veterinarian immediately.",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "f19ed8a78f5dc3d7dcdcc3ab175b6eca",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "480c41bcc79addf280997ccfd014dfc4"
+    },
+    "text": "Regular vet visits and health screenings can prevent severe conditions and help dogs get needed treatment.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "c8917733e9ad751c0936f3a68923e595",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "How to Train a Golden Retriever",
+    "type": "Title"
+  },
+  {
+    "element_id": "81f842f16cc2ee241ee56a2ea857a8d4",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Golden retriever training"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/golden-retriever-training/"
+      ],
+      "parent_id": "c8917733e9ad751c0936f3a68923e595"
+    },
+    "text": "Golden retrievers are smart and eager to please, so training them is generally easy. Golden retriever training can start as early as 8 weeks old and should begin with name, potty, and socialization training.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "9ed6e7e320066052262dfc74fabe8707",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "c8917733e9ad751c0936f3a68923e595"
+    },
+    "text": "This breed responds best to positive reinforcement — which includes using rewards such as food, affection, or play. When the dog performs a trick or command, give a treat or attention so the dog understands that this is a preferred behavior.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "5abc6e8fd9fc60013f764990aed3c451",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "c8917733e9ad751c0936f3a68923e595"
+    },
+    "text": "For a friendly and sociable dog, socialize a golden retriever puppy with gentle petting from various people, including children.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "89898045811f72ac328da6b0cde14d6d",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "c8917733e9ad751c0936f3a68923e595"
+    },
+    "text": "Golden retriever puppies are prone to biting because they were bred to carry objects in their mouths. To train a puppy to stop biting, make a yelping sound and move away when the dog bites — mimicking what would happen within the litter. If a puppy looks like it’s going to bite, put a toy in its mouth to give it something to chew on.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "00e1093595e49fe6d229819a0e49a540",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Golden Retriever Price",
+    "type": "Title"
+  },
+  {
+    "element_id": "a6ed2d76902900af67ffa68b4c823163",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "00e1093595e49fe6d229819a0e49a540"
+    },
+    "text": "Golden retrievers are popular dogs, making them a relatively expensive breed.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "b595b6cea10a457cd5410d156053aeeb",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "00e1093595e49fe6d229819a0e49a540"
+    },
+    "text": "How Much Is a Golden Retriever?",
+    "type": "Title"
+  },
+  {
+    "element_id": "98f0ee7c17f8cf8e9e9238299a39c223",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "b595b6cea10a457cd5410d156053aeeb"
+    },
+    "text": "A golden retriever costs $1,000 to $3,500 if purchased from a reliable breeder. Puppies are more expensive than adults, and adopting is much cheaper than buying from a breeder. Adoption fees are typically between $200 and $500.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e5148fce94fcf9e26db6e8f5ccf0fa8d",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "00e1093595e49fe6d229819a0e49a540"
+    },
+    "text": "How Much Does it Cost to Raise a Golden Retriever?",
+    "type": "Title"
+  },
+  {
+    "element_id": "9b529b34c1f16dd8609ee588572f538d",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e5148fce94fcf9e26db6e8f5ccf0fa8d"
+    },
+    "text": "For food, grooming, and healthcare costs, expect to pay between $100 and $200 per month to raise an average golden retriever.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e4aa569bdf32b36d3bee05669efa8775",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e5148fce94fcf9e26db6e8f5ccf0fa8d"
+    },
+    "text": "The first year of owning a golden retriever typically costs more than the following years because the first-year requirements include first-time vaccines, toys, a dog bed, and dog food. The first-year costs will also include the purchase price or adoption fees for the dog. Expect first-year medical bills to reach up to $700.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "72286e7bf2b74056b6945de133d00331",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "e5148fce94fcf9e26db6e8f5ccf0fa8d"
+    },
+    "text": "A retriever may also cost more in later years when healthcare needs increase. Depending on lifestyle, owners may need to budget for costs such as a dog-walker or dog-sitter.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a24ab33830cff188b527d5bfc0d9a5da",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "68eb73505e9bdec56df29362249eb8c0"
+    },
+    "text": "Should You Get a Golden Retriever?",
+    "type": "Title"
+  },
+  {
+    "element_id": "8886772e5ae8a95d8a22f7b8167c64ad",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a24ab33830cff188b527d5bfc0d9a5da"
+    },
+    "text": "Golden retrievers are loveable family dogs that are suitable for most people who can give the mental and physical stimulation that these dogs need.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "1f3b017e40cc1a1fa2a312cce63bcfe1",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a24ab33830cff188b527d5bfc0d9a5da"
+    },
+    "text": "It’s important to make sure that you have the space and time for a golden retriever before buying or adopting one.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "7709f9d1be65f6a3fae1d72b6946bc10",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a24ab33830cff188b527d5bfc0d9a5da"
+    },
+    "text": "Golden Retrievers are Suitable for:",
+    "type": "Title"
+  },
+  {
+    "element_id": "0f694cdbe36875b3698f57115a529499",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "7709f9d1be65f6a3fae1d72b6946bc10"
+    },
+    "text": "Golden retrievers are gentle and patient dogs that are rarely aggressive, so they’re suitable for families with young children. If you have the room for a medium to large-sized dog and are ready to give this breed lots of attention and exercise, the golden retriever can be a suitable dog for you.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "95f34cd5bce4d8f6e74ea958801dd378",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "7709f9d1be65f6a3fae1d72b6946bc10"
+    },
+    "text": "The golden retriever’s friendly nature also makes this breed suitable for homes with other dogs. As with all dog breeds, it’s best to socialize the retriever with other dogs slowly to make sure the dogs get used to sharing a house.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "1798cfedbe7b3136365807faefffaad8",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a24ab33830cff188b527d5bfc0d9a5da"
+    },
+    "text": "Golden Retrievers are NOT Suitable for:",
+    "type": "Title"
+  },
+  {
+    "element_id": "90141fa50f305677886a7db1df799ac6",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "1798cfedbe7b3136365807faefffaad8"
+    },
+    "text": "Golden retrievers’ large size and exercise needs mean they’re not well-suited to apartment living or houses without a backyard.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "370168557dc9c23afedb12d29245e5d3",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "1798cfedbe7b3136365807faefffaad8"
+    },
+    "text": "This breed needs frequent exercise, so any golden retriever owner should be able to give this dog a couple of hours of walking or running per day. Golden retrievers aren’t suitable for inactive people.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "235854908d396d51484797f7820710e6",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "1798cfedbe7b3136365807faefffaad8"
+    },
+    "text": "This breed forms strong bonds with its owners, so these dogs aren’t suitable for people who are out of the house for most of the day.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "dd2783f615b584d1ddf6b6ce709153a6",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "299 Articles"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/author/john/"
+      ]
+    },
+    "text": "About John Woods 299 Articles",
+    "type": "Title"
+  },
+  {
+    "element_id": "76bdf8488aa4ef5f995ace3f7470e876",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "dd2783f615b584d1ddf6b6ce709153a6"
+    },
+    "text": "John Woods is the founder of All Things Dogs, member of the Association of Professional Dog Trainers, graduate in Animal Behavior & Welfare and recognized author by the Dog Writers Association of America.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "ec070879bba83aa536a8cb24069a95ba",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Facebook",
+        "YouTube"
+      ],
+      "link_urls": [
+        "https://www.facebook.com/groups/allthingsdogsgroup/about/",
+        "https://www.youtube.com/channel/UCF48nmd8YVPBGiwQPqFieVA"
+      ]
+    },
+    "text": "Facebook YouTube",
+    "type": "Title"
+  },
+  {
+    "element_id": "3d5aefaabeaace63e99e3b71b58c4e4e",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "ec070879bba83aa536a8cb24069a95ba"
+    },
+    "text": "Related Articles",
+    "type": "Title"
+  },
+  {
+    "element_id": "755e815e8fc2ecbc8ad59c64a02929f5",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Morkie: Discover the Adorable Maltese-Yorkie Crossbreed"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/morkie/"
+      ],
+      "parent_id": "ec070879bba83aa536a8cb24069a95ba"
+    },
+    "text": "Morkie: Discover the Adorable Maltese-Yorkie Crossbreed",
+    "type": "Title"
+  },
+  {
+    "element_id": "1de862618cd82192a18da843f85027b8",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "John Woods"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/author/john/"
+      ]
+    },
+    "text": "June 13, 2024 John Woods",
+    "type": "Title"
+  },
+  {
+    "element_id": "79e62394d7f43047ce20a35514998171",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Continue Reading →"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/golden-retriever/"
+      ],
+      "parent_id": "1de862618cd82192a18da843f85027b8"
+    },
+    "text": "The Morkie is one of the most charming little companions you’ll ever meet. This delightful crossbreed blends the elegance of the Maltese with the spirited nature of the Yorkshire Terrier, creating an irresistible combination. I recall the first time I encountered a Morkie; I was Continue Reading →",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "462bc1d33a700936e409bd218e2d955d",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "German Shepherd Doberman Mix Origin, Traits, Health & Training Tips"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/german-shepherd-doberman-mix/"
+      ],
+      "parent_id": "1de862618cd82192a18da843f85027b8"
+    },
+    "text": "German Shepherd Doberman Mix Origin, Traits, Health & Training Tips",
+    "type": "Title"
+  },
+  {
+    "element_id": "25b58c6866b85f51d240312f91ce4806",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "John Woods"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/author/john/"
+      ]
+    },
+    "text": "March 21, 2024 John Woods",
+    "type": "Title"
+  },
+  {
+    "element_id": "ba2aa0c66d6b5a451c6291e9c73edf30",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Continue Reading →"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/golden-retriever/"
+      ],
+      "parent_id": "25b58c6866b85f51d240312f91ce4806"
+    },
+    "text": "I’ve always been intrigued by the German Shepherd Doberman Mix, which is a cross between a German Shepherd and a Doberman Pinscher. This hybrid, also known as the Doberman Shepherd, combines the best traits of both parent breeds. German Shepherds are known for their intelligence and Continue Reading →",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "011ad58ea5528790cf8926181f3db77a",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Complete Cavapoo Guide: 6 Must Read Facts"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/cavapoo/"
+      ],
+      "parent_id": "25b58c6866b85f51d240312f91ce4806"
+    },
+    "text": "Complete Cavapoo Guide: 6 Must Read Facts",
+    "type": "Title"
+  },
+  {
+    "element_id": "9386d4d8bdcf8787cb0aa5ba5bd8fb1f",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "John Woods"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/author/john/"
+      ]
+    },
+    "text": "November 24, 2023 John Woods",
+    "type": "Title"
+  },
+  {
+    "element_id": "478378e3e42abe74d1906dea36c2ba6b",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Continue Reading →"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/golden-retriever/"
+      ],
+      "parent_id": "9386d4d8bdcf8787cb0aa5ba5bd8fb1f"
+    },
+    "text": "The Cavapoo is a mixed breed that combines the intelligence of a poodle with the loving nature of a cavalier King Charles spaniel. While mixing an aristocratic English breed with a French duck-hunting waterdog might seem odd, the Cavapoo turned out to be the perfect Continue Reading →",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "9b3c7582d929c690bfccc7a542ba744e",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "9386d4d8bdcf8787cb0aa5ba5bd8fb1f"
+    },
+    "text": "Be the first to comment",
+    "type": "Title"
+  },
+  {
+    "element_id": "6bf7fcfba6cd194076c00913209f2822",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Cancel reply"
+      ],
+      "link_urls": [
+        "/golden-retriever/#respond"
+      ],
+      "parent_id": "9386d4d8bdcf8787cb0aa5ba5bd8fb1f"
+    },
+    "text": "Leave a Reply Cancel reply",
+    "type": "Title"
+  },
+  {
+    "element_id": "a1a19b138d93f21bcf0959325cc1fc9c",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "6bf7fcfba6cd194076c00913209f2822"
+    },
+    "text": "Find what you need",
+    "type": "Title"
+  },
+  {
+    "element_id": "9f1b9edf953c51b216a509194d0ce0ed",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Dog Breeds"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/dog-breeds/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Dog Breeds",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "043f14682d0ae5d4c24b89025d59ea6d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Dog Food"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/dog-food/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Dog Food",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "f680ce7f41551eed57b2a515e6b62504",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Health"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/dog-health/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Health",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "021d175bdc9fdffa1ef16d9aeb8127a7",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Dog Training"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/dog-training/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Dog Training",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "3cd24c6d260bd8e698155b5fddc99340",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Featured"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/featured/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Featured",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "8770f675fc5cf9ba02f9a3c2fe449fca",
+    "metadata": {
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "The information and content on All Things Dogs is intended to be used for a general nature only. It is not intended to constitute professional/veterinary advice.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "fe267a569af1038c35d5f03cae36c0f0",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Terms of Service"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/terms-of-service/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Terms of Service",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "bed5e0edaa4571e256f71b3a4c596ac3",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Privacy Policy"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/privacy-policy/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Privacy Policy",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "8178c22cf354c9438393b0b10c6dc00f",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "About Us"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/about-us/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "About Us",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "5095e0f590f1183a23e6269df04e81c6",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Our Editorial Team"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/our-editorial-team/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Our Editorial Team",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "4e02f413540e1f9046639d3bdc59a33a",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Contact"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/contact/"
+      ],
+      "parent_id": "a1a19b138d93f21bcf0959325cc1fc9c"
+    },
+    "text": "Contact",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "a9c1d1f862d2b5edae87a717c7c10a10",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "All Things Dogs"
+      ],
+      "link_urls": [
+        "https://www.allthingsdogs.com/"
+      ]
+    },
+    "text": "© Copyright All Things Dogs - All Rights Reserved",
+    "type": "Title"
+  },
+  {
+    "element_id": "70799f67cddf5149ec0475eeedab7a13",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "049ab517-6162-4e9f-8e93-567011f7c25e.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Last Updated on May 15, 2024 by Scott Davis",
+    "type": "Title"
+  }
+]

@@ -1,0 +1,1699 @@
+[
+  {
+    "element_id": "8b952d04d7153cffbcb446cef39b8c04",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Navigation",
+    "type": "Title"
+  },
+  {
+    "element_id": "1a54f2a11eeb5c0eaf9bc92f8d117883",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "index"
+      ],
+      "link_urls": [
+        "../genindex.html"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "index",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "5b868c0ec8765e4cf1cd857b1c389b1a",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "modules"
+      ],
+      "link_urls": [
+        "../py-modindex.html"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "modules |",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "b92fd2a82333f3051f5b5445281e6b6a",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "next"
+      ],
+      "link_urls": [
+        "sorting.html"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "next |",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "97f229ca0569a14f62199652e1568274",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "previous"
+      ],
+      "link_urls": [
+        "regex.html"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "previous |",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "4a2f54754527ef62e7a00892cfd369a3",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Python"
+      ],
+      "link_urls": [
+        "https://www.python.org/"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "Python »",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "156a09f7f2c5f91353fb7d4b7e2a3697",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "3.12.5 Documentation"
+      ],
+      "link_urls": [
+        "../index.html"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "3.12.5 Documentation »",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "5bdef2deae5d9f693e9ad48938094f1a",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Python HOWTOs"
+      ],
+      "link_urls": [
+        "index.html"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "Python HOWTOs »",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "c7e2714d5353108fe28eb3a9fe5777e6",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "Socket Programming HOWTO",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "db06fbc8f771a63e1c7e884ff5785550",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8b952d04d7153cffbcb446cef39b8c04"
+    },
+    "text": "|",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "5d6d4fd535b50321a27356785788ec89",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#socket-programming-howto"
+      ]
+    },
+    "text": "Socket Programming HOWTO¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "987e173c3d74e643925ae740e17ccf40",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Abstract",
+    "type": "Title"
+  },
+  {
+    "element_id": "9eaf1b3e7b4677f5f8d502ea0a154e3c",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "987e173c3d74e643925ae740e17ccf40"
+    },
+    "text": "Sockets are used nearly everywhere, but are one of the most severely misunderstood technologies around. This is a 10,000 foot overview of sockets. It’s not really a tutorial - you’ll still have work to do in getting things operational. It doesn’t cover the fine points (and there are a lot of them), but I hope it will give you enough background to begin using them decently.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4861f92e01feaa52d71325f76abd0388",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#sockets"
+      ],
+      "parent_id": "987e173c3d74e643925ae740e17ccf40"
+    },
+    "text": "Sockets¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "4f5542b57316afd0bee9dda88cc31901",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "4861f92e01feaa52d71325f76abd0388"
+    },
+    "text": "I’m only going to talk about INET (i.e. IPv4) sockets, but they account for at least 99% of the sockets in use. And I’ll only talk about STREAM (i.e. TCP) sockets - unless you really know what you’re doing (in which case this HOWTO isn’t for you!), you’ll get better behavior and performance from a STREAM socket than anything else. I will try to clear up the mystery of what a socket is, as well as some hints on how to work with blocking and non-blocking sockets. But I’ll start by talking about blocking sockets. You’ll need to know how they work before dealing with non-blocking sockets.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "61a3932e9f7256faefd5fd6552b92b5a",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "4861f92e01feaa52d71325f76abd0388"
+    },
+    "text": "Part of the trouble with understanding these things is that “socket” can mean a number of subtly different things, depending on context. So first, let’s make a distinction between a “client” socket - an endpoint of a conversation, and a “server” socket, which is more like a switchboard operator. The client application (your browser, for example) uses “client” sockets exclusively; the web server it’s talking to uses both “server” sockets and “client” sockets.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "eaf62f2902b32a01b79acdb61377a2a2",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#history"
+      ],
+      "parent_id": "4861f92e01feaa52d71325f76abd0388"
+    },
+    "text": "History¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "0f7ef368ac322ef269cde9acbc81b24f",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "eaf62f2902b32a01b79acdb61377a2a2"
+    },
+    "text": "Of the various forms of IPC, sockets are by far the most popular. On any given platform, there are likely to be other forms of IPC that are faster, but for cross-platform communication, sockets are about the only game in town.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "4ca1a8e60d807eaa2dd37b358c4e43f6",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "eaf62f2902b32a01b79acdb61377a2a2"
+    },
+    "text": "They were invented in Berkeley as part of the BSD flavor of Unix. They spread like wildfire with the internet. With good reason — the combination of sockets with INET makes talking to arbitrary machines around the world unbelievably easy (at least compared to other schemes).",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "27835e50ea788d4c35cc94d48495dd2d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#creating-a-socket"
+      ],
+      "parent_id": "987e173c3d74e643925ae740e17ccf40"
+    },
+    "text": "Creating a Socket¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "95e6857f947b906ee238c7892bcd258b",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "Roughly speaking, when you clicked on the link that brought you to this page, your browser did something like the following:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6e4f3f62754c813b33258d1a3194458b",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "# create an INET, STREAMing socket\ns = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n# now connect to the web server on port 80 - the normal http port\ns.connect((\"www.python.org\", 80))",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "c4c06fbeb1240714d5e19f525b3e8311",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "When the connect completes, the socket s can be used to send in a request for the text of the page. The same socket will read the reply, and then be destroyed. That’s right, destroyed. Client sockets are normally only used for one exchange (or a small set of sequential exchanges).",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "08efce3deada76c9a1d3e9643d76d725",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "What happens in the web server is a bit more complex. First, the web server creates a “server socket”:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "7bf436e345ddbdc0f7908d23f3a70a29",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "# create an INET, STREAMing socket\nserversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n# bind the socket to a public host, and a well-known port\nserversocket.bind((socket.gethostname(), 80))\n# become a server socket\nserversocket.listen(5)",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "35c831e7521f01b2f3dbe427084e5fd4",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "A couple things to notice: we used socket.gethostname() so that the socket would be visible to the outside world. If we had used s.bind(('localhost', 80)) or s.bind(('127.0.0.1', 80)) we would still have a “server” socket, but one that was only visible within the same machine. s.bind(('', 80)) specifies that the socket is reachable by any address the machine happens to have.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "49b4729a0c808b290243f2d8860fff7f",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "A second thing to note: low number ports are usually reserved for “well known” services (HTTP, SNMP etc). If you’re playing around, use a nice high number (4 digits).",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "f0f5b401e70c153e8c926dae7e71d1d2",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "Finally, the argument to listen tells the socket library that we want it to queue up as many as 5 connect requests (the normal max) before refusing outside connections. If the rest of the code is written properly, that should be plenty.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "061d1b1e5439f8f72f770c32d7b7b49f",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "Now that we have a “server” socket, listening on port 80, we can enter the mainloop of the web server:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "6d7b42998d46990d5bc9cb48b60deeca",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "while True:\n    # accept connections from outside\n    (clientsocket, address) = serversocket.accept()\n    # now do something with the clientsocket\n    # in this case, we'll pretend this is a threaded server\n    ct = client_thread(clientsocket)\n    ct.run()",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "fa4ca8188d23d5420dc0a55c87a62be6",
+    "metadata": {
+      "emphasized_text_contents": [
+        "all",
+        "other"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "There’s actually 3 general ways in which this loop could work - dispatching a thread to handle clientsocket, create a new process to handle clientsocket, or restructure this app to use non-blocking sockets, and multiplex between our “server” socket and any active clientsockets using select. More about that later. The important thing to understand now is this: this is all a “server” socket does. It doesn’t send any data. It doesn’t receive any data. It just produces “client” sockets. Each clientsocket is created in response to some other “client” socket doing a connect() to the host and port we’re bound to. As soon as we’ve created that clientsocket, we go back to listening for more connections. The two “clients” are free to chat it up - they are using some dynamically allocated port which will be recycled when the conversation ends.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "df963da071812cfab3a2249279e1a38c",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#ipc"
+      ],
+      "parent_id": "27835e50ea788d4c35cc94d48495dd2d"
+    },
+    "text": "IPC¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "5599e42d9e105a1261ef254272242730",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "df963da071812cfab3a2249279e1a38c"
+    },
+    "text": "If you need fast IPC between two processes on one machine, you should look into pipes or shared memory. If you do decide to use AF_INET sockets, bind the “server” socket to 'localhost'. On most platforms, this will take a shortcut around a couple of layers of network code and be quite a bit faster.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "15894c77d5cc45de10ef5baebd8719bf",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "See also",
+    "type": "Title"
+  },
+  {
+    "element_id": "9c6af68035149965f432a555d48a87b9",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "multiprocessing"
+      ],
+      "link_urls": [
+        "../library/multiprocessing.html#module-multiprocessing"
+      ],
+      "parent_id": "15894c77d5cc45de10ef5baebd8719bf"
+    },
+    "text": "The multiprocessing integrates cross-platform IPC into a higher-level API.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d3534a51b55745245680aa7dae83ee5d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#using-a-socket"
+      ],
+      "parent_id": "15894c77d5cc45de10ef5baebd8719bf"
+    },
+    "text": "Using a Socket¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "5c1d00caf42ae79cf7aeffd71c61a1d6",
+    "metadata": {
+      "emphasized_text_contents": [
+        "as the designer, you will have to decide what the rules of etiquette are for a conversation"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "The first thing to note, is that the web browser’s “client” socket and the web server’s “client” socket are identical beasts. That is, this is a “peer to peer” conversation. Or to put it another way, as the designer, you will have to decide what the rules of etiquette are for a conversation. Normally, the connecting socket starts the conversation, by sending in a request, or perhaps a signon. But that’s a design decision - it’s not a rule of sockets.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "9296c49e5c942f03138651235c01637d",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "Now there are two sets of verbs to use for communication. You can use send and recv, or you can transform your client socket into a file-like beast and use read and write. The latter is the way Java presents its sockets. I’m not going to talk about it here, except to warn you that you need to use flush on sockets. These are buffered “files”, and a common mistake is to write something, and then read for a reply. Without a flush in there, you may wait forever for the reply, because the request may still be in your output buffer.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8bdd1715d7e30bb050a9f429a4ffe127",
+    "metadata": {
+      "emphasized_text_contents": [
+        "your"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "Now we come to the major stumbling block of sockets - send and recv operate on the network buffers. They do not necessarily handle all the bytes you hand them (or expect from them), because their major focus is handling the network buffers. In general, they return when the associated network buffers have been filled (send) or emptied (recv). They then tell you how many bytes they handled. It is your responsibility to call them again until your message has been completely dealt with.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "156bed05bea20467e7ee591f69ec9c20",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "When a recv returns 0 bytes, it means the other side has closed (or is in the process of closing) the connection. You will not receive any more data on this connection. Ever. You may be able to send data successfully; I’ll talk more about this later.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "66c3dfb28c7e5a75e22c5d391c736089",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "A protocol like HTTP uses a socket for only one transfer. The client sends a request, then reads a reply. That’s it. The socket is discarded. This means that a client can detect the end of the reply by receiving 0 bytes.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "7301c25e71cb3182325504255529351a",
+    "metadata": {
+      "emphasized_text_contents": [
+        "there is no",
+        "on a socket.",
+        "not",
+        "not",
+        "messages must either be fixed length",
+        "or be delimited",
+        "or indicate how long they are",
+        "or end by shutting down the connection"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i",
+        "i",
+        "i",
+        "i",
+        "i",
+        "i",
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "But if you plan to reuse your socket for further transfers, you need to realize that there is no EOT on a socket. I repeat: if a socket send or recv returns after handling 0 bytes, the connection has been broken. If the connection has not been broken, you may wait on a recv forever, because the socket will not tell you that there’s nothing more to read (for now). Now if you think about that a bit, you’ll come to realize a fundamental truth of sockets: messages must either be fixed length (yuck), or be delimited (shrug), or indicate how long they are (much better), or end by shutting down the connection. The choice is entirely yours, (but some ways are righter than others).",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "eaa11f32c868443bc7fbac83157115a0",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "Assuming you don’t want to end the connection, the simplest solution is a fixed length message:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "22e8623cf37962bcb0207a1fb929c709",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "class MySocket:\n    \"\"\"demonstration class only\n      - coded for clarity, not efficiency\n    \"\"\"\n\n    def __init__(self, sock=None):\n        if sock is None:\n            self.sock = socket.socket(\n                            socket.AF_INET, socket.SOCK_STREAM)\n        else:\n            self.sock = sock\n\n    def connect(self, host, port):\n        self.sock.connect((host, port))\n\n    def mysend(self, msg):\n        totalsent = 0\n        while totalsent < MSGLEN:\n            sent = self.sock.send(msg[totalsent:])\n            if sent == 0:\n                raise RuntimeError(\"socket connection broken\")\n            totalsent = totalsent + sent\n\n    def myreceive(self):\n        chunks = []\n        bytes_recd = 0\n        while bytes_recd < MSGLEN:\n            chunk = self.sock.recv(min(MSGLEN - bytes_recd, 2048))\n            if chunk == b'':\n                raise RuntimeError(\"socket connection broken\")\n            chunks.append(chunk)\n            bytes_recd = bytes_recd + len(chunk)\n        return b''.join(chunks)",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "fbef0d34c0137911212beda88376c56b",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "The sending code here is usable for almost any messaging scheme - in Python you send strings, and you can use len() to determine its length (even if it has embedded \\0 characters). It’s mostly the receiving code that gets more complex. (And in C, it’s not much worse, except you can’t use strlen if the message has embedded \\0s.)",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "b8a4ca4b27282388772dffbc9b72e4fb",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "The easiest enhancement is to make the first character of the message an indicator of message type, and have the type determine the length. Now you have two recvs - the first to get (at least) that first character so you can look up the length, and the second in a loop to get the rest. If you decide to go the delimited route, you’ll be receiving in some arbitrary chunk size, (4096 or 8192 is frequently a good match for network buffer sizes), and scanning what you’ve received for a delimiter.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8e7ce5eeeff72340e5d83fd87295a44e",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "One complication to be aware of: if your conversational protocol allows multiple messages to be sent back to back (without some kind of reply), and you pass recv an arbitrary chunk size, you may end up reading the start of a following message. You’ll need to put that aside and hold onto it, until it’s needed.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "09a1cb484c5d02030857dc5086e7ad31",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "Prefixing the message with its length (say, as 5 numeric characters) gets more complex, because (believe it or not), you may not get all 5 characters in one recv. In playing around, you’ll get away with it; but in high network loads, your code will very quickly break unless you use two recv loops - the first to determine the length, the second to get the data part of the message. Nasty. This is also when you’ll discover that send does not always manage to get rid of everything in one pass. And despite having read this, you will eventually get bit by it!",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a565c7c9c47d8fd3fb81de85543c0480",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "In the interests of space, building your character, (and preserving my competitive position), these enhancements are left as an exercise for the reader. Lets move on to cleaning up.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "5f214d6c59c171428ed8b550bd57e824",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#binary-data"
+      ],
+      "parent_id": "d3534a51b55745245680aa7dae83ee5d"
+    },
+    "text": "Binary Data¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "02402f0aad1a069e344665348ce477fb",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "network byte order"
+      ],
+      "link_urls": [
+        "https://en.wikipedia.org/wiki/Endianness#Networking"
+      ],
+      "parent_id": "5f214d6c59c171428ed8b550bd57e824"
+    },
+    "text": "It is perfectly possible to send binary data over a socket. The major problem is that not all machines use the same formats for binary data. For example, network byte order is big-endian, with the most significant byte first, so a 16 bit integer with the value 1 would be the two hex bytes 00 01. However, most common processors (x86/AMD64, ARM, RISC-V), are little-endian, with the least significant byte first - that same 1 would be 01 00.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "176cfd4bfacd491d0f829b79651a2a76",
+    "metadata": {
+      "emphasized_text_contents": [
+        "network",
+        "host",
+        "short",
+        "long"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i",
+        "i",
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "5f214d6c59c171428ed8b550bd57e824"
+    },
+    "text": "Socket libraries have calls for converting 16 and 32 bit integers - ntohl, htonl, ntohs, htons where “n” means network and “h” means host, “s” means short and “l” means long. Where network order is host order, these do nothing, but where the machine is byte-reversed, these swap the bytes around appropriately.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e49ed3a0b467163808db44c177b968d8",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "5f214d6c59c171428ed8b550bd57e824"
+    },
+    "text": "In these days of 64-bit machines, the ASCII representation of binary data is frequently smaller than the binary representation. That’s because a surprising amount of the time, most integers have the value 0, or maybe 1. The string \"0\" would be two bytes, while a full 64-bit integer would be 8. Of course, this doesn’t fit well with fixed-length messages. Decisions, decisions.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "302a2971a1106b4dab13087fb9a2ccdf",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#disconnecting"
+      ],
+      "parent_id": "15894c77d5cc45de10ef5baebd8719bf"
+    },
+    "text": "Disconnecting¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "3d73a32579c83cd03c8adbdb7b80ce5f",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "302a2971a1106b4dab13087fb9a2ccdf"
+    },
+    "text": "Strictly speaking, you’re supposed to use shutdown on a socket before you close it. The shutdown is an advisory to the socket at the other end. Depending on the argument you pass it, it can mean “I’m not going to send anymore, but I’ll still listen”, or “I’m not listening, good riddance!”. Most socket libraries, however, are so used to programmers neglecting to use this piece of etiquette that normally a close is the same as shutdown(); close(). So in most situations, an explicit shutdown is not needed.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "b73da3f45f6f1c5486f841695bb8f580",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "302a2971a1106b4dab13087fb9a2ccdf"
+    },
+    "text": "One way to use shutdown effectively is in an HTTP-like exchange. The client sends a request and then does a shutdown(1). This tells the server “This client is done sending, but can still receive.” The server can detect “EOF” by a receive of 0 bytes. It can assume it has the complete request. The server sends a reply. If the send completes successfully then, indeed, the client was still receiving.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "653a329293c0e59ea24217289c562361",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Please"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "302a2971a1106b4dab13087fb9a2ccdf"
+    },
+    "text": "Python takes the automatic shutdown a step further, and says that when a socket is garbage collected, it will automatically do a close if it’s needed. But relying on this is a very bad habit. If your socket just disappears without doing a close, the socket at the other end may hang indefinitely, thinking you’re just being slow. Please close your sockets when you’re done.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a21c94dd9285af54d7f91add2262db76",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#when-sockets-die"
+      ],
+      "parent_id": "302a2971a1106b4dab13087fb9a2ccdf"
+    },
+    "text": "When Sockets Die¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "6d8e3ba5e805ad838676186d9918bc98",
+    "metadata": {
+      "emphasized_text_contents": [
+        "not"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a21c94dd9285af54d7f91add2262db76"
+    },
+    "text": "Probably the worst thing about using blocking sockets is what happens when the other side comes down hard (without doing a close). Your socket is likely to hang. TCP is a reliable protocol, and it will wait a long, long time before giving up on a connection. If you’re using threads, the entire thread is essentially dead. There’s not much you can do about it. As long as you aren’t doing something dumb, like holding a lock while doing a blocking read, the thread isn’t really consuming much in the way of resources. Do not try to kill the thread - part of the reason that threads are more efficient than processes is that they avoid the overhead associated with the automatic recycling of resources. In other words, if you do manage to kill the thread, your whole process is likely to be screwed up.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d44a2a17ba456f5be12138a0049fdf64",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "¶"
+      ],
+      "link_urls": [
+        "#non-blocking-sockets"
+      ],
+      "parent_id": "15894c77d5cc45de10ef5baebd8719bf"
+    },
+    "text": "Non-blocking Sockets¶",
+    "type": "Title"
+  },
+  {
+    "element_id": "8b6a3d48468d44c843bfbce0d073f355",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d44a2a17ba456f5be12138a0049fdf64"
+    },
+    "text": "If you’ve understood the preceding, you already know most of what you need to know about the mechanics of using sockets. You’ll still use the same calls, in much the same ways. It’s just that, if you do it right, your app will be almost inside-out.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "2351d2de200cb48da046a06f62d39f93",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d44a2a17ba456f5be12138a0049fdf64"
+    },
+    "text": "In Python, you use socket.setblocking(False) to make it non-blocking. In C, it’s more complex, (for one thing, you’ll need to choose between the BSD flavor O_NONBLOCK and the almost indistinguishable POSIX flavor O_NDELAY, which is completely different from TCP_NODELAY), but it’s the exact same idea. You do this after creating the socket, but before using it. (Actually, if you’re nuts, you can switch back and forth.)",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "da9ae6650d42a158e3f9d8efedec5fe3",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d44a2a17ba456f5be12138a0049fdf64"
+    },
+    "text": "The major mechanical difference is that send, recv, connect and accept can return without having done anything. You have (of course) a number of choices. You can check return code and error codes and generally drive yourself crazy. If you don’t believe me, try it sometime. Your app will grow large, buggy and suck CPU. So let’s skip the brain-dead solutions and do it right.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d2e66a1e718de5063081f37f90be56c6",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Use select.",
+    "type": "Title"
+  },
+  {
+    "element_id": "85e84071185af38fb80d677e9e8cd0d4",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "In C, coding select is fairly complex. In Python, it’s a piece of cake, but it’s close enough to the C version that if you understand select in Python, you’ll have little trouble with it in C:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e9c96cec459c6ea266675792fdb027f2",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "ready_to_read, ready_to_write, in_error = \\\n               select.select(\n                  potential_readers,\n                  potential_writers,\n                  potential_errs,\n                  timeout)",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2d3a7a32f8dca8afc3a3eec45801b351",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "You pass select three lists: the first contains all sockets that you might want to try reading; the second all the sockets you might want to try writing to, and the last (normally left empty) those that you want to check for errors. You should note that a socket can go into more than one list. The select call is blocking, but you can give it a timeout. This is generally a sensible thing to do - give it a nice long timeout (say a minute) unless you have good reason to do otherwise.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "205a7c34296a3a32954761572c28c96b",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "In return, you will get three lists. They contain the sockets that are actually readable, writable and in error. Each of these lists is a subset (possibly empty) of the corresponding list you passed in.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e5c23b71390374a45d8a78ef072b504d",
+    "metadata": {
+      "emphasized_text_contents": [
+        "something",
+        "something",
+        "something"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i",
+        "i"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "If a socket is in the output readable list, you can be as-close-to-certain-as-we-ever-get-in-this-business that a recv on that socket will return something. Same idea for the writable list. You’ll be able to send something. Maybe not all you want to, but something is better than nothing. (Actually, any reasonably healthy socket will return as writable - it just means outbound network buffer space is available.)",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "7460ea3077304b5f95feabc95235a5a0",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "If you have a “server” socket, put it in the potential_readers list. If it comes out in the readable list, your accept will (almost certainly) work. If you have created a new socket to connect to someone else, put it in the potential_writers list. If it shows up in the writable list, you have a decent chance that it has connected.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "c64966d72d7dd07af0c79a1ce06d651d",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "Actually, select can be handy even with blocking sockets. It’s one way of determining whether you will block - the socket returns as readable when there’s something in the buffers. However, this still doesn’t help with the problem of determining whether the other end is done, or just busy with something else.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e5ef8b522a29ec459d57460a71ca0a89",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Portability alert"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "Portability alert: On Unix, select works both with the sockets and files. Don’t try this on Windows. On Windows, select works with sockets only. Also note that in C, many of the more advanced socket options are done differently on Windows. In fact, on Windows I usually use threads (which work very, very well) with my sockets.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "225ef61eeb2ab1059b2a40f7bb1c2271",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Table of Contents"
+      ],
+      "link_urls": [
+        "../contents.html"
+      ],
+      "parent_id": "d2e66a1e718de5063081f37f90be56c6"
+    },
+    "text": "Table of Contents",
+    "type": "Title"
+  },
+  {
+    "element_id": "9eadc4b1a30c8809f349ac8b02350e03",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Socket Programming HOWTO"
+      ],
+      "link_urls": [
+        "#"
+      ],
+      "parent_id": "225ef61eeb2ab1059b2a40f7bb1c2271"
+    },
+    "text": "Socket Programming HOWTO",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "7765994b228aeb5e830a2d02d9b58a1e",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Sockets"
+      ],
+      "link_urls": [
+        "#sockets"
+      ],
+      "parent_id": "9eadc4b1a30c8809f349ac8b02350e03"
+    },
+    "text": "Sockets",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "ecc3f55967be0c00440fa0a97d1d7eb8",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "History"
+      ],
+      "link_urls": [
+        "#history"
+      ],
+      "parent_id": "7765994b228aeb5e830a2d02d9b58a1e"
+    },
+    "text": "History",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "84dae16450538fbdaab4fac5a38d8936",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Creating a Socket"
+      ],
+      "link_urls": [
+        "#creating-a-socket"
+      ],
+      "parent_id": "9eadc4b1a30c8809f349ac8b02350e03"
+    },
+    "text": "Creating a Socket",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "869f1d34ed17b3fbb18c963e1da76b0f",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "IPC"
+      ],
+      "link_urls": [
+        "#ipc"
+      ],
+      "parent_id": "84dae16450538fbdaab4fac5a38d8936"
+    },
+    "text": "IPC",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "a6b1b35128bca9ae4e9bb38e19c18aa1",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Using a Socket"
+      ],
+      "link_urls": [
+        "#using-a-socket"
+      ],
+      "parent_id": "9eadc4b1a30c8809f349ac8b02350e03"
+    },
+    "text": "Using a Socket",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "dbfaf17607b642be3ca9108509b174ae",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Binary Data"
+      ],
+      "link_urls": [
+        "#binary-data"
+      ],
+      "parent_id": "a6b1b35128bca9ae4e9bb38e19c18aa1"
+    },
+    "text": "Binary Data",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "cca64c3808be5c71c68d5e2e7829ad48",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Disconnecting"
+      ],
+      "link_urls": [
+        "#disconnecting"
+      ],
+      "parent_id": "9eadc4b1a30c8809f349ac8b02350e03"
+    },
+    "text": "Disconnecting",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "406b06f3c6d899ff4e302d3969b51e2f",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "When Sockets Die"
+      ],
+      "link_urls": [
+        "#when-sockets-die"
+      ],
+      "parent_id": "cca64c3808be5c71c68d5e2e7829ad48"
+    },
+    "text": "When Sockets Die",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "6086f6245b9bbd01f8fbc3c27c547b0b",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Non-blocking Sockets"
+      ],
+      "link_urls": [
+        "#non-blocking-sockets"
+      ],
+      "parent_id": "9eadc4b1a30c8809f349ac8b02350e03"
+    },
+    "text": "Non-blocking Sockets",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "9e18c78a4178eb95190027c26103fe7c",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "225ef61eeb2ab1059b2a40f7bb1c2271"
+    },
+    "text": "Previous topic",
+    "type": "Title"
+  },
+  {
+    "element_id": "f00a953171e4b22336eb3d7a1ad7b48f",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Regular Expression HOWTO"
+      ],
+      "link_urls": [
+        "regex.html"
+      ]
+    },
+    "text": "Regular Expression HOWTO",
+    "type": "Title"
+  },
+  {
+    "element_id": "d886eaa35a60d04bf9d0901f45b28f96",
+    "metadata": {
+      "category_depth": 3,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f00a953171e4b22336eb3d7a1ad7b48f"
+    },
+    "text": "Next topic",
+    "type": "Title"
+  },
+  {
+    "element_id": "458f050f33af7297a9874d3ad7fb5809",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Sorting Techniques"
+      ],
+      "link_urls": [
+        "sorting.html"
+      ]
+    },
+    "text": "Sorting Techniques",
+    "type": "Title"
+  },
+  {
+    "element_id": "517194cc0e508fe00caddbc6cd798bd0",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "458f050f33af7297a9874d3ad7fb5809"
+    },
+    "text": "This Page",
+    "type": "Title"
+  },
+  {
+    "element_id": "c9520a3abe16ddfda263e39ef2e35cdd",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Report a Bug"
+      ],
+      "link_urls": [
+        "../bugs.html"
+      ],
+      "parent_id": "517194cc0e508fe00caddbc6cd798bd0"
+    },
+    "text": "Report a Bug",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "52fcd2a989ff9d82c6a63a8b044c882f",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Show Source"
+      ],
+      "link_urls": [
+        "https://github.com/python/cpython/blob/main/Doc/howto/sockets.rst"
+      ],
+      "parent_id": "517194cc0e508fe00caddbc6cd798bd0"
+    },
+    "text": "Show Source",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "d60d8d6547819a7321488995d440a6a3",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "458f050f33af7297a9874d3ad7fb5809"
+    },
+    "text": "Navigation",
+    "type": "Title"
+  },
+  {
+    "element_id": "0c158851622569ff6c2be45a7a8b0c21",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "index"
+      ],
+      "link_urls": [
+        "../genindex.html"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "index",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "298c97be6c4477b31dae6b99b746ea3d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "modules"
+      ],
+      "link_urls": [
+        "../py-modindex.html"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "modules |",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "b26d757c82aba1c799b2b971cb909092",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "next"
+      ],
+      "link_urls": [
+        "sorting.html"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "next |",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "9ccad1de7ecafb2787dbbb7c5ca205c7",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "previous"
+      ],
+      "link_urls": [
+        "regex.html"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "previous |",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "dfb9e689be21475fe6884d6778b6dc27",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Python"
+      ],
+      "link_urls": [
+        "https://www.python.org/"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "Python »",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "2285a3a6f70e89651a754be8fe9db4f6",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "3.12.5 Documentation"
+      ],
+      "link_urls": [
+        "../index.html"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "3.12.5 Documentation »",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "810630c972a5d3e0e150b5b19391aa57",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Python HOWTOs"
+      ],
+      "link_urls": [
+        "index.html"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "Python HOWTOs »",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "723e385bfeb7108d2de5ccce2ea16606",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "Socket Programming HOWTO",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "c9d721dad0b9528aa1d48169102c4edf",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "|",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "5d14c9cdd7386afec226dafbc6345965",
+    "metadata": {
+      "filename": "pysocket.html",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Copyright",
+        "History and License",
+        "Please donate.",
+        "Found a bug",
+        "Sphinx"
+      ],
+      "link_urls": [
+        "../copyright.html",
+        "/license.html",
+        "https://www.python.org/psf/donations/",
+        "/bugs.html",
+        "https://www.sphinx-doc.org/"
+      ],
+      "parent_id": "d60d8d6547819a7321488995d440a6a3"
+    },
+    "text": "© Copyright 2001-2024, Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Aug 18, 2024 (04:12 UTC). Found a bug? Created using Sphinx 8.0.2.",
+    "type": "NarrativeText"
+  }
+]

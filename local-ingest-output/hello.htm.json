@@ -1,0 +1,2602 @@
+[
+  {
+    "element_id": "958614863a73fa4736b920bcdcbc45e9",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Open in app"
+      ],
+      "link_urls": [
+        "https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fa4bbd2d85841&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---two_column_layout_nav----------------------------------"
+      ]
+    },
+    "text": "Open in app",
+    "type": "Title"
+  },
+  {
+    "element_id": "7dca1d4ea4495dbb3f6585938204c079",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Sign up"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&source=post_page---two_column_layout_nav-----------------------global_nav-----------"
+      ]
+    },
+    "text": "Sign up",
+    "type": "Title"
+  },
+  {
+    "element_id": "41868be1007ff398455098578a0cc683",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Sign in"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&source=post_page---two_column_layout_nav-----------------------global_nav-----------"
+      ]
+    },
+    "text": "Sign in",
+    "type": "Title"
+  },
+  {
+    "element_id": "94aecfd43bbc5f5d743d79c9733e3c30",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Write"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---two_column_layout_nav-----------------------new_post_topnav-----------"
+      ]
+    },
+    "text": "Write",
+    "type": "Title"
+  },
+  {
+    "element_id": "436982d4efa362a1a09010c766e1f20e",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Sign up"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&source=post_page---two_column_layout_nav-----------------------global_nav-----------"
+      ]
+    },
+    "text": "Sign up",
+    "type": "Title"
+  },
+  {
+    "element_id": "eb35850709fd34ed28ecea7b1aedefef",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Sign in"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&source=post_page---two_column_layout_nav-----------------------global_nav-----------"
+      ]
+    },
+    "text": "Sign in",
+    "type": "Title"
+  },
+  {
+    "element_id": "1e009b2d43a833ab881ec1008af38b64",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Top highlight",
+    "type": "Title"
+  },
+  {
+    "element_id": "f86108b6eaf2abe03ecf633a5ed24d0a",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Understanding Direct Preference Optimization",
+    "type": "Title"
+  },
+  {
+    "element_id": "57e28794ce5766893b7e22d518ff9ca4",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f86108b6eaf2abe03ecf633a5ed24d0a"
+    },
+    "text": "A look at the “Direct Preference Optimization: Your Language Model is Secretly a Reward Model” paper and its findings",
+    "type": "Title"
+  },
+  {
+    "element_id": "7a6c873cdea1dc751b6a792896ee938f",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Matthew Gunton"
+      ],
+      "link_urls": [
+        "https://medium.com/@mgunton7?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Matthew Gunton",
+    "type": "Title"
+  },
+  {
+    "element_id": "2604f35756e8d3d7b1ed4c855c05e943",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Follow"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fe6581bb71f6&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&user=Matthew+Gunton&userId=e6581bb71f6&source=post_page-e6581bb71f6----a4bbd2d85841---------------------post_header-----------"
+      ]
+    },
+    "text": "Follow",
+    "type": "Title"
+  },
+  {
+    "element_id": "b8033c2a0bf2e7d0c6827214a947ef1f",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "2604f35756e8d3d7b1ed4c855c05e943"
+    },
+    "text": "Published in",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "516f83426af9f909a1edbb3a4ecf6f3e",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "990777926b7d5e1f8e531502c7886f9b",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "516f83426af9f909a1edbb3a4ecf6f3e"
+    },
+    "text": "8 min read",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "48136024d8a3601c612807cfdc4c59c7",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "516f83426af9f909a1edbb3a4ecf6f3e"
+    },
+    "text": "Feb 17, 2024",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0cd3018824f7e7ed4d2da62cd997e794",
+    "metadata": {
+      "emphasized_text_contents": [
+        "This blog post was inspired by a discussion I recently had with some friends about the Direct Preference Optimization (DPO) paper. The discussion was lively and went over many important topics in LLMs and Machine Learning in general. Below is an expansion on some of those ideas and the concepts discussed in the paper."
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "516f83426af9f909a1edbb3a4ecf6f3e"
+    },
+    "text": "This blog post was inspired by a discussion I recently had with some friends about the Direct Preference Optimization (DPO) paper. The discussion was lively and went over many important topics in LLMs and Machine Learning in general. Below is an expansion on some of those ideas and the concepts discussed in the paper.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e72b83fcf7493e1465c1aea2f6fd7c27",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "516f83426af9f909a1edbb3a4ecf6f3e"
+    },
+    "text": "Direct Preference Optimization (DPO) has become the way that new foundation models are fine-tuned. Famously Mixtral 8x7B, the Sparse Mixture of Experts model created by Mistral, was able to reach LLaMa 70B levels of performance with significantly fewer parameters by using DPO. Naturally, this success has led many in the community to begin fine-tuning their own models with DPO.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "9c91ef89721fbb7bb46d9c6954eb3468",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "516f83426af9f909a1edbb3a4ecf6f3e"
+    },
+    "text": "Let’s dive into what exactly DPO is and how we got here.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "f5d3c10f216bbee37fece1231e0831a6",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "High Level Discussion",
+    "type": "Title"
+  },
+  {
+    "element_id": "6456a6b8c39eb64cd603c6723d8c1f27",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f5d3c10f216bbee37fece1231e0831a6"
+    },
+    "text": "Let’s begin with setting out what fine-tuning should do from a high level. Once you have a pre-trained a model to have strong generative capacities, you typically want to control its output somehow. Whether that be optimizing it to respond in dialogue as a chat-bot or to respond in code rather than English, the goal here is to take an LLM that is already functional and find a way to be more selective with its output. As this is machine learning, the way we show it the right behavior is with data.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "0ba0426b38414910538aeb2b82718f72",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f5d3c10f216bbee37fece1231e0831a6"
+    },
+    "text": "There are some key terms here I’ll define before we start diving into the technicals:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "073aa43649f413e591b5225cba0d9a6b",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Loss Function"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f5d3c10f216bbee37fece1231e0831a6"
+    },
+    "text": "Loss Function — a function we use as a guide to optimize performance of our model. This is chosen based on what has been found to be effective",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "2e3c1b58b80fbb1ba093ee59352d2906",
+    "metadata": {
+      "emphasized_text_contents": [
+        "KL Divergence"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "To learn more about this, there is a wonderful post by Aparna Dhinakaran on the topic."
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/understanding-kl-divergence-f3ddc8dff254"
+      ],
+      "parent_id": "f5d3c10f216bbee37fece1231e0831a6"
+    },
+    "text": "KL Divergence— stands for Kullback–Leibler divergence, which is a way to measure the difference between two continuous probability distributions. To learn more about this, there is a wonderful post by Aparna Dhinakaran on the topic.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "abb9f89eb2d25c09702f3d88063cb5a3",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Policy"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f5d3c10f216bbee37fece1231e0831a6"
+    },
+    "text": "Policy — an abstraction that describes how a neural network will make decisions. Put a different way, if a neural network is trained 3 times, each time it will have a different policy, whose performances you can compare.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "47a982491cd58425a36c2475a93e05c1",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "The Status Quo before DPO (PPO)",
+    "type": "Title"
+  },
+  {
+    "element_id": "18b8c90d1183b6a6cb2195d49123b242",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "47a982491cd58425a36c2475a93e05c1"
+    },
+    "text": "Before DPO, we used to have to train an entirely separate model to help us fine-tune, typically called the reward model or RLHF model. We would sample completions from our LLM and then have the reward model give us a score for each completion. The idea here was simple. Humans are expensive to have evaluate your LLMs outputs but the quality of your LLM will ultimately be determined by humans. To keep costs down and quality high, you would train the reward model to approximate the human’s feedback. This is why the method was called Proximal Policy Optimization (or PPO), and it lives or dies based on the strength of your reward model.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "The Math behind PPO",
+    "type": "Title"
+  },
+  {
+    "element_id": "0ae5e25c8fe22214aabb555d9b532122",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "To find the ideal reward model, we assume human preferences are more probabilistic than deterministic, so we can represent this symbolically in the Bradley-Terry model like below.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "cea85b24b50d038d0e9efa9a1d172931",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "Going variable by variable, p* means that this is the optimal probability distribution, or the one the model should treat as the source of truth. y₁ and y₂ are 2 completions from the model that we are going to compare, and x is the prompt given to LLM. r* means that the reward function is optimal, or put another way, to train the model to approximate the optimal probability distribution, you give it the rewards from the optimal reward function.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "5f86749404ab8a67ebe275ba08256db0",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "Nevertheless, the perfect probability distribution of human preference is difficult, if not impossible, to know. For this reason, we focus on the reward model , so we need to find a way to figure out r*. In machine learning, we often use loss minimization to estimate complex issues. If we have access to training data that shows us what human preferences truly are, and thus would give scores that are part of the p* distribution, then we can use those samples to train the reward model like below:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "e4e5592b3eab1408cedf68dcb5dc036d",
+    "metadata": {
+      "emphasized_text_contents": [
+        "w",
+        "l",
+        "w",
+        "l"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i",
+        "i",
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "Here rϕ is the rewards model we are training, D is a set of the samples we are training on, yw is the preferred completion and yl is the dispreferred completion. The authors have chosen to frame the problem as a binary-classification problem, which we will see why later on, but for now just remember this is why we have yw and yl.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "12abd3eba8f49733381ed2ccc7467c51",
+    "metadata": {
+      "emphasized_text_contents": [
+        "ref"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "Once we have optimized our reward model, we use it to fine-tune the LLM using a difference between the old policy (π ref) and the new policy (π θ). Importantly, we are doing a KL divergence to prevent the model from shifting too much.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "0d9c0d3bb314c5cab9607ab4fab6b430",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "Why don’t we want it shifting too much? Remember the model is already mostly functional, and it has taken quite a lot of compute resources to reach this level. Consequently, we want to make sure the model retains many of the good traits it currently has while we focus on having it follow instructions better.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "84d149e1718c7404a21bc76683a4785e",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8a4ac3b2fb09f3d6f1a41f4bfadddbd5"
+    },
+    "text": "While the above methodology is effective — LLaMa2 for instance was fine-tuned this way — it has a one major weakness: it requires training an entirely separate model, which is costly and requires huge amounts of additional data.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a2cb7894d2b00833b414024f47bcfd6b",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "How does DPO improve on this?",
+    "type": "Title"
+  },
+  {
+    "element_id": "9a9d70ab2987c5583edacfe4f9f5a449",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "a2cb7894d2b00833b414024f47bcfd6b"
+    },
+    "text": "DPO removes the need for the rewards model all together! This allows us to avoid training a costly separate reward model and incidentally, we have found that DPO requires a lot less data to work as well as PPO.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "622717986b14d7340d6ff010074518a2",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "The Math behind DPO",
+    "type": "Title"
+  },
+  {
+    "element_id": "29cf2ba613d3c28f1d3af28598fc7daf",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "The major leap stems from the KL constraint we placed on ourselves in equation 3. By adding this constraint, we can actually derive the ideal policy that will maximize a KL-constrained rewards model. The algebra is shown below:",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "032d3b640b15ec1c4f8d0523cc40c83a",
+    "metadata": {
+      "emphasized_text_contents": [
+        "r"
+      ],
+      "emphasized_text_tags": [
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "For our purposes, the most important point to take away is that we now have the below equation for a policy π r, such that the reward function r is easily solved for.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "be7d777c8a1f9d5229f4cafbf76d7386",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "Naturally, we immediately solve for r",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "cd819ff4486e4aa4f5abb36a78100b3e",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "Returning to our ideal probability distribution equation (equation 1), we can rewrite that so that each instance of r is replaced by equation 5.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "d9e4ad2a83ea9d043c6f7497611061cd",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "What this has shown is that you don’t need the reward model to optimize the policy to follow the ideal probability distribution of human preferences. Instead, you can directly work on the policy to improve it (hence where Direct Preference optimization gets its name from). We are using the probabilities that your LLM generates for each token to help it fine-tune itself.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "471a1ef05d534fe79dd2795575850523",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "To finish the derivation, we do the same math as we did in equation 3 to come up with our loss optimizing function to optimize for the policy.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "77072ac832bb0c59c908242a72970bcb",
+    "metadata": {
+      "emphasized_text_contents": [
+        "ref",
+        "w",
+        "l",
+        "w"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i",
+        "i",
+        "i"
+      ],
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "622717986b14d7340d6ff010074518a2"
+    },
+    "text": "That was a lot of algebra, but equation 7 is the most important one to understand, so I’ll break down the most important pieces. We now have an equation which will compare the policy probabilities of the old policy (π ref) and the new policy (π θ) for a winning completion (yw) and a losing completion (yl). When we compare these, we are optimizing so that that yw is bigger, as this would mean that the policies are getting better at giving winning responses than losing responses.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "8d6417fc2b684e82d84634748c7676d3",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Consequences",
+    "type": "Title"
+  },
+  {
+    "element_id": "c67fedcb0287cdebe6e75d2dbb012355",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8d6417fc2b684e82d84634748c7676d3"
+    },
+    "text": "First, DPO does not require a reward model! You simply need high quality data so that the model has a clear direction of what is good and bad, and it will improve.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "571e29cc8e4b00538f8073f5e44ac391",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8d6417fc2b684e82d84634748c7676d3"
+    },
+    "text": "Second, DPO is dynamic. Every time you use new data, it is going to adapt immediately thanks to the way it figures out the right direction to go. Compared to PPO, where you have to retrain your reward model each time you have new data, this is a big win.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "234c1078dae19add353fede6caf65e74",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8d6417fc2b684e82d84634748c7676d3"
+    },
+    "text": "Third, DPO allows you to train a model to avoid certain topics just as much as it will learn to give good answers for others. One way to conceptualize the new loss equation is as a signal that points our training in the right direction. By using both a good and bad example, we are teaching the model to avoid certain responses as much as we tell them to go towards others. As a large part of fine-tuning involves the model ignoring certain subjects, this feature is very valuable.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "0d7ad0047acff2c9c17f8e76978e2af7",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Closing Thoughts",
+    "type": "Title"
+  },
+  {
+    "element_id": "abc127e50eae53070538c727935ff67d",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0d7ad0047acff2c9c17f8e76978e2af7"
+    },
+    "text": "Understanding the consequences of DPO’s math make me more optimistic about the future of LLMs.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "53eebef7991852e475e7cd7cdc2b9ea6",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0d7ad0047acff2c9c17f8e76978e2af7"
+    },
+    "text": "DPO requires less data and compute than PPO, both of which are major contributors to the cost of making your own model. With this cost reduction, more people will be able to fine-tune their own models, potentially giving society access to more specialized LLMs.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "c17e4cab7e0834f36d1460b0f8df995c",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0d7ad0047acff2c9c17f8e76978e2af7"
+    },
+    "text": "Moreover, as DPO explicitly requires good and bad examples, while PPO only asks for good ones, it is much better at restricting behavior. This means that LLMs can be made far safer, another piece that will allow them to help out society.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "b316970dd050fec2d9090dc5e1c744e0",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0d7ad0047acff2c9c17f8e76978e2af7"
+    },
+    "text": "With forces like DPO giving us access to better quality LLMs that can be more easily trained, it is an incredibly exciting time for this field.",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "68e9f557190ab1ac7e30f59be9d0efb9",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Direct Preference Optimization: Your Language Model is Secretly a Reward Mode"
+      ],
+      "link_urls": [
+        "https://arxiv.org/pdf/2305.18290.pdf"
+      ],
+      "parent_id": "0d7ad0047acff2c9c17f8e76978e2af7"
+    },
+    "text": "[1] R. Rafailov, et al., Direct Preference Optimization: Your Language Model is Secretly a Reward Mode (2023), arXiv",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "f202437a9d13a4b0dac8b2339ba190c4",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Mixtral of Experts (2024)"
+      ],
+      "link_urls": [
+        "https://arxiv.org/pdf/2401.04088.pdf"
+      ]
+    },
+    "text": "[2] A. Jiang, et al., Mixtral of Experts (2024), ArXiv",
+    "type": "Title"
+  },
+  {
+    "element_id": "fa9b30d725ae64ca702ea7569c12b8aa",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Fine Tuning"
+      ],
+      "link_urls": [
+        "https://medium.com/tag/fine-tuning?source=post_page-----a4bbd2d85841---------------fine_tuning-----------------"
+      ]
+    },
+    "text": "Fine Tuning",
+    "type": "Title"
+  },
+  {
+    "element_id": "b1a08078de36422d80d3de4444d31296",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Llm"
+      ],
+      "link_urls": [
+        "https://medium.com/tag/llm?source=post_page-----a4bbd2d85841---------------llm-----------------"
+      ]
+    },
+    "text": "Llm",
+    "type": "Title"
+  },
+  {
+    "element_id": "71a82a77c40a4cc68a27a9c759c400da",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Mixtral 8x7b"
+      ],
+      "link_urls": [
+        "https://medium.com/tag/mixtral-8x7b?source=post_page-----a4bbd2d85841---------------mixtral_8x7b-----------------"
+      ]
+    },
+    "text": "Mixtral 8x7b",
+    "type": "Title"
+  },
+  {
+    "element_id": "fce8e85b1dacda8d2da15022da50f125",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "AI"
+      ],
+      "link_urls": [
+        "https://medium.com/tag/ai?source=post_page-----a4bbd2d85841---------------ai-----------------"
+      ]
+    },
+    "text": "AI",
+    "type": "Title"
+  },
+  {
+    "element_id": "35ec605676dd037b5040b31f30ea3810",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Machine Learning"
+      ],
+      "link_urls": [
+        "https://medium.com/tag/machine-learning?source=post_page-----a4bbd2d85841---------------machine_learning-----------------"
+      ]
+    },
+    "text": "Machine Learning",
+    "type": "Title"
+  },
+  {
+    "element_id": "4e0cf239106dbd32ade95c4c9376b0da",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Follow"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fe6581bb71f6&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&user=Matthew+Gunton&userId=e6581bb71f6&source=post_page-e6581bb71f6----a4bbd2d85841---------------------follow_profile-----------"
+      ]
+    },
+    "text": "Follow",
+    "type": "Title"
+  },
+  {
+    "element_id": "de3cdc8243aa0735a50b5bbe204b5964",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Written by Matthew Gunton"
+      ],
+      "link_urls": [
+        "https://medium.com/@mgunton7?source=post_page-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "4e0cf239106dbd32ade95c4c9376b0da"
+    },
+    "text": "Written by Matthew Gunton",
+    "type": "Title"
+  },
+  {
+    "element_id": "d9e4ce47ae817309e852ab8ca71d68ff",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "338 Followers"
+      ],
+      "link_urls": [
+        "https://medium.com/@mgunton7/followers?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "338 Followers",
+    "type": "Title"
+  },
+  {
+    "element_id": "b450bd9e7539ee55d890dc001494d407",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d9e4ce47ae817309e852ab8ca71d68ff"
+    },
+    "text": "Writer for",
+    "type": "ListItem"
+  },
+  {
+    "element_id": "0e903dceb7e8d688810db5d7e62b0408",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "a3ae83a5abe0b014072d82bba5c5d9b2",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "0e903dceb7e8d688810db5d7e62b0408"
+    },
+    "text": "Hi, my name is Matthew Gunton. I like talking about the latest ways technology can be used to improve the world",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "c35b01db421502af39de71cc0ff5d2b9",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Follow"
+      ],
+      "link_urls": [
+        "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fe6581bb71f6&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Funderstanding-the-implications-of-direct-preference-optimization-a4bbd2d85841&user=Matthew+Gunton&userId=e6581bb71f6&source=post_page-e6581bb71f6----a4bbd2d85841---------------------follow_profile-----------"
+      ]
+    },
+    "text": "Follow",
+    "type": "Title"
+  },
+  {
+    "element_id": "c4ba70ef6695a6e8c002aac03b835c92",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "c35b01db421502af39de71cc0ff5d2b9"
+    },
+    "text": "More from Matthew Gunton and Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "0649812c16bd05e4b2d0f6be065de58b",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Matthew Gunton"
+      ],
+      "link_urls": [
+        "https://medium.com/@mgunton7?source=author_recirc-----a4bbd2d85841----0---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Matthew Gunton",
+    "type": "Title"
+  },
+  {
+    "element_id": "6f5cce799acb9ccddc7363535ac7b23a",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "b8e3e97da0fa2267b44852d088e82ca8",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=author_recirc-----a4bbd2d85841----0---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "71c06b444021e5c248baeff3d25d3bcd",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Diving Deep into AutoGen and Agentic Frameworks"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/diving-deep-into-autogen-and-agentic-frameworks-3e161fa3c086?source=author_recirc-----a4bbd2d85841----0---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "b8e3e97da0fa2267b44852d088e82ca8"
+    },
+    "text": "Diving Deep into AutoGen and Agentic Frameworks",
+    "type": "Title"
+  },
+  {
+    "element_id": "b64516465678d5c8ba1f167d94a30bf7",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "71c06b444021e5c248baeff3d25d3bcd"
+    },
+    "text": "This blog post will go into the details of the “AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation” paper",
+    "type": "Title"
+  },
+  {
+    "element_id": "5d365287e9aca1ef24264fa0098c8c71",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Jun 28",
+    "type": "Title"
+  },
+  {
+    "element_id": "990823594d257b3bba1d44e0dc3f9264",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "241"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/diving-deep-into-autogen-and-agentic-frameworks-3e161fa3c086?source=author_recirc-----a4bbd2d85841----0---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "5d365287e9aca1ef24264fa0098c8c71"
+    },
+    "text": "241",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0d3c81e22dfebcbb37c53ffff5e27b65",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Dominik Polzer"
+      ],
+      "link_urls": [
+        "https://dmnkplzr.medium.com/?source=author_recirc-----a4bbd2d85841----1---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Dominik Polzer",
+    "type": "Title"
+  },
+  {
+    "element_id": "877adfa65ae4b35c78813f5332fea57e",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "70fcfa0c98ec87da583c7ed17d7af647",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=author_recirc-----a4bbd2d85841----1---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "37bbe3afae67c91c55d1608b254a9e67",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "17 (Advanced) RAG Techniques to Turn Your LLM App Prototype into a Production-Ready Solution"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/17-advanced-rag-techniques-to-turn-your-rag-app-prototype-into-a-production-ready-solution-5a048e36cdc8?source=author_recirc-----a4bbd2d85841----1---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "70fcfa0c98ec87da583c7ed17d7af647"
+    },
+    "text": "17 (Advanced) RAG Techniques to Turn Your LLM App Prototype into a Production-Ready Solution",
+    "type": "Title"
+  },
+  {
+    "element_id": "206d2ab322f015e4a09c583cb80981ca",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "37bbe3afae67c91c55d1608b254a9e67"
+    },
+    "text": "A collection of RAG techniques to help you develop your RAG app into something robust that will last",
+    "type": "Title"
+  },
+  {
+    "element_id": "8fa23caff5504aea393813e96068980f",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Jun 26",
+    "type": "Title"
+  },
+  {
+    "element_id": "11e82c863fa3412d271cc22518f75515",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "2.4K"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/17-advanced-rag-techniques-to-turn-your-rag-app-prototype-into-a-production-ready-solution-5a048e36cdc8?source=author_recirc-----a4bbd2d85841----1---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "8fa23caff5504aea393813e96068980f"
+    },
+    "text": "2.4K",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2e9bbadcba4ae78470b5f241d3f09aaa",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "8fa23caff5504aea393813e96068980f"
+    },
+    "text": "22",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0abdfe349c0b8d7c00ffb9a6d6d8e792",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Zoumana Keita"
+      ],
+      "link_urls": [
+        "https://zoumanakeita.medium.com/?source=author_recirc-----a4bbd2d85841----2---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Zoumana Keita",
+    "type": "Title"
+  },
+  {
+    "element_id": "272fcce84d38809405b7d4c2edcd9207",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "8bfdbe2ab6c74305929f87660d060839",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=author_recirc-----a4bbd2d85841----2---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "d21fa3ee93069be224ee7bb87582b508",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Document Parsing Using Large Language Models — With Code"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/document-parsing-using-large-language-models-with-code-9229fda09cdf?source=author_recirc-----a4bbd2d85841----2---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "8bfdbe2ab6c74305929f87660d060839"
+    },
+    "text": "Document Parsing Using Large Language Models — With Code",
+    "type": "Title"
+  },
+  {
+    "element_id": "f143fd75bc43392f7eaf27cf6bd09433",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "d21fa3ee93069be224ee7bb87582b508"
+    },
+    "text": "You will not think about using Regular Expressions anymore.",
+    "type": "Title"
+  },
+  {
+    "element_id": "72bc54a5bc0bbaa0d60133af26c57c60",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Jul 25",
+    "type": "Title"
+  },
+  {
+    "element_id": "d4eb3fa1cea4ca34e6406b4f16c44526",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "744"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/document-parsing-using-large-language-models-with-code-9229fda09cdf?source=author_recirc-----a4bbd2d85841----2---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "72bc54a5bc0bbaa0d60133af26c57c60"
+    },
+    "text": "744",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "dcbc29eba3ccf06d522b0a3872f129e2",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Matthew Gunton"
+      ],
+      "link_urls": [
+        "https://medium.com/@mgunton7?source=author_recirc-----a4bbd2d85841----3---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Matthew Gunton",
+    "type": "Title"
+  },
+  {
+    "element_id": "1e3c18095b9b1d55b9a0bce01de313ef",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "87ea49d8afa9f465208d65798788226f",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=author_recirc-----a4bbd2d85841----3---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "f21092a464377e5c39d30664d55d8f0b",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Line By Line, Let’s Reproduce GPT-2: Section 1"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/line-by-line-lets-reproduce-gpt-2-section-1-b26684f98492?source=author_recirc-----a4bbd2d85841----3---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "87ea49d8afa9f465208d65798788226f"
+    },
+    "text": "Line By Line, Let’s Reproduce GPT-2: Section 1",
+    "type": "Title"
+  },
+  {
+    "element_id": "2e0ce3df0a6df4e79ffa174defd58720",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f21092a464377e5c39d30664d55d8f0b"
+    },
+    "text": "This blog post will go line-by-line through the code in Section 1 of Andrej Karpathy’s “Let’s reproduce GPT-2 (124M)”",
+    "type": "Title"
+  },
+  {
+    "element_id": "16ac86d46579b25fe670b1cdc456c3ec",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Jul 23",
+    "type": "Title"
+  },
+  {
+    "element_id": "9d0998ddaa4a76e546b19358e1167f5a",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "121"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/line-by-line-lets-reproduce-gpt-2-section-1-b26684f98492?source=author_recirc-----a4bbd2d85841----3---------------------cf007650_fe00_46bc_903e_ce2cd5a60089-------"
+      ],
+      "parent_id": "16ac86d46579b25fe670b1cdc456c3ec"
+    },
+    "text": "121",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "9619e15ce9e8ef2736d7c2538a1da5c8",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "See all from Matthew Gunton"
+      ],
+      "link_urls": [
+        "https://medium.com/@mgunton7?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "See all from Matthew Gunton",
+    "type": "Title"
+  },
+  {
+    "element_id": "19d6b93fa512bece594bc7ab851c43ba",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "See all from Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "See all from Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "8edb5158541bfede27e2da76f0f53ad7",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "19d6b93fa512bece594bc7ab851c43ba"
+    },
+    "text": "Recommended from Medium",
+    "type": "Title"
+  },
+  {
+    "element_id": "2ea014a16423831a36108074d1682e99",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "BavalpreetSinghh"
+      ],
+      "link_urls": [
+        "https://medium.com/@bavalpreetsinghh?source=read_next_recirc-----a4bbd2d85841----0---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "BavalpreetSinghh",
+    "type": "Title"
+  },
+  {
+    "element_id": "ae9383854a90c18368137bafeed4a73d",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "RLHF(PPO) vs DPO"
+      ],
+      "link_urls": [
+        "https://medium.com/@bavalpreetsinghh/rlhf-ppo-vs-dpo-26b1438cf22b?source=read_next_recirc-----a4bbd2d85841----0---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "2ea014a16423831a36108074d1682e99"
+    },
+    "text": "RLHF(PPO) vs DPO",
+    "type": "Title"
+  },
+  {
+    "element_id": "3efcea9d60cd07c5a0e27572371b3ced",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "ae9383854a90c18368137bafeed4a73d"
+    },
+    "text": "Although large-scale unsupervisly trained language models (LLMs) gain broad world knowledge and some reasoning abilities, precisely…",
+    "type": "Title"
+  },
+  {
+    "element_id": "66b8391405b6f45b9b826db30b694bb9",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Jun 8",
+    "type": "Title"
+  },
+  {
+    "element_id": "6f959bb29052a8ddd5ba45fc0fe8a5a5",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "96"
+      ],
+      "link_urls": [
+        "https://medium.com/@bavalpreetsinghh/rlhf-ppo-vs-dpo-26b1438cf22b?source=read_next_recirc-----a4bbd2d85841----0---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "66b8391405b6f45b9b826db30b694bb9"
+    },
+    "text": "96",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "3286a93f3adae9a2fb486d6a16a1251e",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Ms Aerin"
+      ],
+      "link_urls": [
+        "https://automata88.medium.com/?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "Ms Aerin",
+    "type": "Title"
+  },
+  {
+    "element_id": "417c9204b6a0a650b8db5501af0a7bba",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "f974485651eb5db830f4717de1d80ff0",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Towards Data Science"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "Towards Data Science",
+    "type": "Title"
+  },
+  {
+    "element_id": "2c5948ae9251beab8dc1e22787010ae5",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "RLHF: Reinforcement Learning from Human Feedback"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "f974485651eb5db830f4717de1d80ff0"
+    },
+    "text": "RLHF: Reinforcement Learning from Human Feedback",
+    "type": "Title"
+  },
+  {
+    "element_id": "505e1820d3bb0cc43fd11fc6d5d4c5e7",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "2c5948ae9251beab8dc1e22787010ae5"
+    },
+    "text": "ChatGPT’s success ingredient: The Instruction Data.",
+    "type": "Title"
+  },
+  {
+    "element_id": "19a6d6034c3a763f4682f15e15996746",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "505e1820d3bb0cc43fd11fc6d5d4c5e7"
+    },
+    "text": "Oct 11, 2023",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "550c39faa9d43210dc61842f45a45aaf",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "730"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "505e1820d3bb0cc43fd11fc6d5d4c5e7"
+    },
+    "text": "730",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "dbaef5c140203018396d8a5d740d60e4",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "505e1820d3bb0cc43fd11fc6d5d4c5e7"
+    },
+    "text": "10",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "8d5232eef2ee9cf3289ac343dca0412e",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f974485651eb5db830f4717de1d80ff0"
+    },
+    "text": "Lists",
+    "type": "Title"
+  },
+  {
+    "element_id": "faa7251c525b72f0cca44af89f0694ac",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Natural Language Processing"
+      ],
+      "link_urls": [
+        "https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=read_next_recirc-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "f974485651eb5db830f4717de1d80ff0"
+    },
+    "text": "Natural Language Processing",
+    "type": "Title"
+  },
+  {
+    "element_id": "0d9ccd71b623e4915ea4698df51db360",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "1649 stories·1222 saves",
+    "type": "Title"
+  },
+  {
+    "element_id": "f7368223935333623141e34e668f0c0b",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Predictive Modeling w/ Python"
+      ],
+      "link_urls": [
+        "https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=read_next_recirc-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "0d9ccd71b623e4915ea4698df51db360"
+    },
+    "text": "Predictive Modeling w/ Python",
+    "type": "Title"
+  },
+  {
+    "element_id": "65ed58963f54c191d1d950fb9c55bcbe",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "20 stories·1452 saves",
+    "type": "Title"
+  },
+  {
+    "element_id": "e2be1e46fd89176969078cd15912dfdb",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "The New Chatbots: ChatGPT, Bard, and Beyond"
+      ],
+      "link_urls": [
+        "https://medium.com/@MediumStaff/list/the-new-chatbots-chatgpt-bard-and-beyond-5969c7449b7f?source=read_next_recirc-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "65ed58963f54c191d1d950fb9c55bcbe"
+    },
+    "text": "The New Chatbots: ChatGPT, Bard, and Beyond",
+    "type": "Title"
+  },
+  {
+    "element_id": "160c8e627d03c89b75410c76569c5aad",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "12 stories·442 saves",
+    "type": "Title"
+  },
+  {
+    "element_id": "c289fb449c7764d6d9c8e840626d3ec3",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Practical Guides to Machine Learning"
+      ],
+      "link_urls": [
+        "https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=read_next_recirc-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "160c8e627d03c89b75410c76569c5aad"
+    },
+    "text": "Practical Guides to Machine Learning",
+    "type": "Title"
+  },
+  {
+    "element_id": "dbda21457bc21843ce5ab4568e616bbb",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "10 stories·1766 saves",
+    "type": "Title"
+  },
+  {
+    "element_id": "a21333fb3073884cd99e9065b73fa321",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "DhanushKumar"
+      ],
+      "link_urls": [
+        "https://medium.com/@danushidk507?source=read_next_recirc-----a4bbd2d85841----0---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "DhanushKumar",
+    "type": "Title"
+  },
+  {
+    "element_id": "4dc2dc1eb1c41b219d1a8bffadee69de",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "PPO Algorithm"
+      ],
+      "link_urls": [
+        "https://medium.com/@danushidk507/ppo-algorithm-3b33195de14a?source=read_next_recirc-----a4bbd2d85841----0---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "a21333fb3073884cd99e9065b73fa321"
+    },
+    "text": "PPO Algorithm",
+    "type": "Title"
+  },
+  {
+    "element_id": "35304637cb443d3211b81a80e221f6b2",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "4dc2dc1eb1c41b219d1a8bffadee69de"
+    },
+    "text": "Proximal Policy Optimization (PPO) is an algorithm in the field of reinforcement learning that trains a computer agent’s decision function…",
+    "type": "Title"
+  },
+  {
+    "element_id": "55ca5b93b08214cb78e2293547b8e0a5",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Feb 21",
+    "type": "Title"
+  },
+  {
+    "element_id": "33f9672a66467634299dc453cf0d532c",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "185"
+      ],
+      "link_urls": [
+        "https://medium.com/@danushidk507/ppo-algorithm-3b33195de14a?source=read_next_recirc-----a4bbd2d85841----0---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "55ca5b93b08214cb78e2293547b8e0a5"
+    },
+    "text": "185",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "7f11c4df8fd3176cc7433fe6761f24d7",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "vignesh yaadav"
+      ],
+      "link_urls": [
+        "https://medium.com/@vi.ai_?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "vignesh yaadav",
+    "type": "Title"
+  },
+  {
+    "element_id": "c0646fbb968feb3196e374c0fa25d4f7",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Exploring and building the LLaMA 3 Architecture : A Deep Dive into Components, Coding, and…"
+      ],
+      "link_urls": [
+        "https://medium.com/@vi.ai_/exploring-and-building-the-llama-3-architecture-a-deep-dive-into-components-coding-and-43d4097cfbbb?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "7f11c4df8fd3176cc7433fe6761f24d7"
+    },
+    "text": "Exploring and building the LLaMA 3 Architecture : A Deep Dive into Components, Coding, and…",
+    "type": "Title"
+  },
+  {
+    "element_id": "e488c4783c25eee91a826b66cd115b3b",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "c0646fbb968feb3196e374c0fa25d4f7"
+    },
+    "text": "Meta is stepping up its game in the artificial intelligence (AI) race with the introduction of its new open-source AI model, Llama 3…",
+    "type": "Title"
+  },
+  {
+    "element_id": "dff0722ab8ec76b297477ad4f107f935",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Apr 19",
+    "type": "Title"
+  },
+  {
+    "element_id": "3d7eb6d0b817d1f31faf23d4759f99c2",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "180"
+      ],
+      "link_urls": [
+        "https://medium.com/@vi.ai_/exploring-and-building-the-llama-3-architecture-a-deep-dive-into-components-coding-and-43d4097cfbbb?source=read_next_recirc-----a4bbd2d85841----1---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "dff0722ab8ec76b297477ad4f107f935"
+    },
+    "text": "180",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0e41ef17f49e88eb4a05fc13556247eb",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Vishal Rajput"
+      ],
+      "link_urls": [
+        "https://vishal-ai.medium.com/?source=read_next_recirc-----a4bbd2d85841----2---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "Vishal Rajput",
+    "type": "Title"
+  },
+  {
+    "element_id": "8c77a4527bc58caff078b7640cfc9032",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "90f678eeb1f2f6b1b05dcbfed17ff7c1",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "AIGuys"
+      ],
+      "link_urls": [
+        "https://medium.com/aiguys?source=read_next_recirc-----a4bbd2d85841----2---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "AIGuys",
+    "type": "Title"
+  },
+  {
+    "element_id": "3d3f6aeb2de9813495a50d214235ac71",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Prompt Engineering Is Dead: DSPy Is New Paradigm For Prompting"
+      ],
+      "link_urls": [
+        "https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896?source=read_next_recirc-----a4bbd2d85841----2---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "90f678eeb1f2f6b1b05dcbfed17ff7c1"
+    },
+    "text": "Prompt Engineering Is Dead: DSPy Is New Paradigm For Prompting",
+    "type": "Title"
+  },
+  {
+    "element_id": "b770a3db9a570f0b107afcd4ed306c5c",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "3d3f6aeb2de9813495a50d214235ac71"
+    },
+    "text": "DSPy Paradigm: Let’s program — not prompt — LLMs",
+    "type": "Title"
+  },
+  {
+    "element_id": "99753d1faf8333ec1880417ae941ef9a",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "May 29",
+    "type": "Title"
+  },
+  {
+    "element_id": "fcc3a61b777bca68b14fc82c855cc7ec",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "4.4K"
+      ],
+      "link_urls": [
+        "https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896?source=read_next_recirc-----a4bbd2d85841----2---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "99753d1faf8333ec1880417ae941ef9a"
+    },
+    "text": "4.4K",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c6e0565e30ec1d9716f559f3e8952f07",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "99753d1faf8333ec1880417ae941ef9a"
+    },
+    "text": "45",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "cfe327ef2cbe020f39584bbdc7328e09",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Florian June"
+      ],
+      "link_urls": [
+        "https://medium.com/@florian_algo?source=read_next_recirc-----a4bbd2d85841----3---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "Florian June",
+    "type": "Title"
+  },
+  {
+    "element_id": "22c286346e5fb234973b35d2e6becd9c",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "in",
+    "type": "Title"
+  },
+  {
+    "element_id": "69214f95eb1d138af69639f05c357817",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "AI Advances"
+      ],
+      "link_urls": [
+        "https://ai.gopubby.com/?source=read_next_recirc-----a4bbd2d85841----3---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ]
+    },
+    "text": "AI Advances",
+    "type": "Title"
+  },
+  {
+    "element_id": "f083563b0483761e55811eebedb07585",
+    "metadata": {
+      "category_depth": 1,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Will Long-Context LLMs Cause the Extinction of RAG"
+      ],
+      "link_urls": [
+        "https://ai.gopubby.com/will-long-context-llms-cause-the-extinction-of-rag-de41ca5ddfc6?source=read_next_recirc-----a4bbd2d85841----3---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "69214f95eb1d138af69639f05c357817"
+    },
+    "text": "Will Long-Context LLMs Cause the Extinction of RAG",
+    "type": "Title"
+  },
+  {
+    "element_id": "9193567100c811f5acf66f879bfaa50c",
+    "metadata": {
+      "category_depth": 2,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "parent_id": "f083563b0483761e55811eebedb07585"
+    },
+    "text": "Intuitive Perspective, Academic Research, and Insights",
+    "type": "Title"
+  },
+  {
+    "element_id": "4edd52d45e1df1a4dbd395d17fc63343",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ]
+    },
+    "text": "Aug 1",
+    "type": "Title"
+  },
+  {
+    "element_id": "04c0cff3bbbfb026714d4316a08b3b66",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "416"
+      ],
+      "link_urls": [
+        "https://ai.gopubby.com/will-long-context-llms-cause-the-extinction-of-rag-de41ca5ddfc6?source=read_next_recirc-----a4bbd2d85841----3---------------------4533891d_492e_419c_9f18_f15a7b08be12-------"
+      ],
+      "parent_id": "4edd52d45e1df1a4dbd395d17fc63343"
+    },
+    "text": "416",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "bb995a364d58801b62d427e07c916f23",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "See more recommendations"
+      ],
+      "link_urls": [
+        "https://medium.com/?source=post_page-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "4edd52d45e1df1a4dbd395d17fc63343"
+    },
+    "text": "See more recommendations",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "a384c3180bff542c3fc16d1544370144",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Help"
+      ],
+      "link_urls": [
+        "https://help.medium.com/hc/en-us?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Help",
+    "type": "Title"
+  },
+  {
+    "element_id": "99816edf4b4deb56a33880b98ab7c82f",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Status"
+      ],
+      "link_urls": [
+        "https://medium.statuspage.io/?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Status",
+    "type": "Title"
+  },
+  {
+    "element_id": "d98fbeb2fdd066b07ec27120015a351a",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "About"
+      ],
+      "link_urls": [
+        "https://medium.com/about?autoplay=1&source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "About",
+    "type": "Title"
+  },
+  {
+    "element_id": "ddd917b92f09e7657329a43cee1ee4ae",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Careers"
+      ],
+      "link_urls": [
+        "https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Careers",
+    "type": "Title"
+  },
+  {
+    "element_id": "1f233f5f9e9f4a359eb1ccfb76a5a1f4",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Press"
+      ],
+      "link_urls": [
+        "https://towardsdatascience.com/pressinquiries@medium.com?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Press",
+    "type": "Title"
+  },
+  {
+    "element_id": "0b59d9dc3811d386ce50c83ce76b3d5a",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Blog"
+      ],
+      "link_urls": [
+        "https://blog.medium.com/?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Blog",
+    "type": "Title"
+  },
+  {
+    "element_id": "cb9a53f69d76c3a68921bd7dcc09bede",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Privacy"
+      ],
+      "link_urls": [
+        "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Privacy",
+    "type": "Title"
+  },
+  {
+    "element_id": "3d59d18e026d4a8af93382f17e28bdf2",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Terms"
+      ],
+      "link_urls": [
+        "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Terms",
+    "type": "Title"
+  },
+  {
+    "element_id": "633abc1cd69c71fca1a6284101830858",
+    "metadata": {
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Text to speech"
+      ],
+      "link_urls": [
+        "https://speechify.com/medium?source=post_page-----a4bbd2d85841--------------------------------"
+      ],
+      "parent_id": "3d59d18e026d4a8af93382f17e28bdf2"
+    },
+    "text": "Text to speech",
+    "type": "NarrativeText"
+  },
+  {
+    "element_id": "7087bf2b2995b8e9d3ac4fec51ff3d51",
+    "metadata": {
+      "category_depth": 0,
+      "filename": "hello.htm",
+      "filetype": "text/html",
+      "languages": [
+        "eng"
+      ],
+      "link_texts": [
+        "Teams"
+      ],
+      "link_urls": [
+        "https://medium.com/business?source=post_page-----a4bbd2d85841--------------------------------"
+      ]
+    },
+    "text": "Teams",
+    "type": "Title"
+  }
+]
